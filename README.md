@@ -1,7 +1,7 @@
 # cpkg
 
 One tool, for every* system.
-<small>*supported</small>
+
 Every Linux distro has its own package manager, and they all use different
 words for the same things. `apt install` here, `dnf install` there, `pacman
 -S` somewhere else. cpkg puts one small set of commands on top of whatever
