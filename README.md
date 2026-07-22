@@ -13,7 +13,7 @@ pkgtool, or the AUR through yay).
 
 ## The two commands
 
-**cpkgsh** drops you into a small interactive shell:
+**cpkgsh** drops you into a small interactive shell meant for mass package management:
 
 ```
 $ cpkgsh
