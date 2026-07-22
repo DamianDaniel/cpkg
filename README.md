@@ -9,7 +9,7 @@ you're running, so you don't have to remember which one you're on.
 
 It also knows about flatpak, snap, and nix, and it can switch to the
 "low-level" tool under your package manager when you need it (dpkg, rpm,
-pkgtool, or the AUR through yay).
+pkgtool).
 
 ## The two commands
 
@@ -55,7 +55,7 @@ manager and its low-level counterpart:
 
 - APT flips to dpkg
 - DNF and Zypper flip to rpm
-- Pacman flips to the AUR (through yay, if you have it)
+- Pacman flips to the AUR (pacman has no low-level counterpart so the AUR is used isntead)
 - Slackpkg flips to pkgtool
 
 You can also jump straight to flatpak, snap, or nix if any of those are
