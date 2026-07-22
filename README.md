@@ -131,4 +131,4 @@ what it's about to do before you say yes.
 
 ## License
 
-GPLv3. Full text in `LICENSE`.
+GPLv3. Full text in <a href="LICENSE">LICENSE</a>.
